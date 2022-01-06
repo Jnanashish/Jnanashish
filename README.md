@@ -8,7 +8,7 @@
 
 
 - 🔭 Building [interviewPrep.tech](https://interviewprep.tech/), a job searching platform.
-- 👨‍💻 Data Analytics intern @ [Highradius](https://www.highradius.com/), Content & Graphic Design intern @ [Programming Pathshala](https://renaissance.programmingpathshala.com/crack-coding-interviews) .
+- 👨‍💻 Data Analytics intern @[Highradius](https://www.highradius.com/), Content & Graphic Design intern @[Programming Pathshala](https://renaissance.programmingpathshala.com/crack-coding-interviews).
 - 🌱 I’m currently learning Next.js, ReactNative, Node.js .
 - 👯 I’m looking to collaborate on [interviewPrep.tech](https://interviewprep.tech/).
 - 💬 Ask me about Product Development, React js, Firebase, DSA, FrontEnd development, Digital Marketing 
